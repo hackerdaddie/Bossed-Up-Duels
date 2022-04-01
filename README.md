@@ -1,2 +1,2 @@
-# bossedup_motd
-MOTD landing page 
+# MOTD for Bossed Up Duels
+ 
