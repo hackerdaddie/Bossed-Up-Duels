@@ -1,5 +1,7 @@
 ## Welcome to Bossed Up Duels!
 
+This site is a work in progress, stay tuned <3
+
 [![Join our Discord](join_discord.jpg)](https://discord.gg/7zXZ6symvv)
 
 ### Rules
@@ -8,7 +10,7 @@
 
 - No RDM (killing a player without flourishing) in any form. This includes mass RDM and revenge RDM.
 
-- No use of bows allowed.
+- No use of bows, smoke bombs, or firebombs are allowed.
 
 - No building is allowed if you are disrupting others. An admin may ask you to stop building. Building an arena can be coordinated with the players/admins online.
 
