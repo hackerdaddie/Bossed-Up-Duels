@@ -6,24 +6,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Rules
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+- No racism, sexism, homophobia, transphobia, or any sort of bigotry, even if it is a joke. You will be punished without warning.
 
-# Header 1
-## Header 2
-### Header 3
+- Be respectful to others. Do not: troll, harass, dox, etcetera.
 
-- Bulleted
-- List
+- Stay away from discussion or media about current events. We play video games to distract us from the real world, it has no place here. Content that either directly spotlights current events, or content that merely references political events will be removed with no warning, and more punishments could follow alongside the removal. 
 
-1. Numbered
-2. List
+- No NSFW content. This includes any kind of media of gore, torture, porn, crash videos, etcetera. Basically, don't post anything you wouldn't want your boss (or your mother) catch you watching.
 
-**Bold** and _Italic_ and `Code` text
+- Do not use any of the Discord channels to complain about a punishment you received. You can go to #tickets to create a ticket and solve the issue there.
 
-[Link](url) and ![Image](src)
+- E-dating, fawning, excessive flirting or such type of role playing is not allowed, period.
+
+- Do not spam any channel, including spamming bot commands.
+
+- No self-promotion of any kind. YouTube clips of Mordhau content are acceptable in #mordhau-clips-and-vids, but can not be posted for the purpose of profit - promoting things such as other discords, events, etcetera will be removed with no warning. (Pro-tip, read the channel description if you’re unsure)
+
+- Do not abuse the music bots. This includes posting destructive or annoying audio, spamming commands, etcetera.
+
+- Comply with Discord TOS.
+
+The entire staff team can interpret these rules (within reason) and respond how they see fit. Something that is questionable, but not explicitly written in the rules, is still subject to punishment - with staff having the final say on everything.
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
