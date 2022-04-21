@@ -1,6 +1,6 @@
 ## Welcome to Bossed Up Duels!
 
-Discord Link
+![Join our Discord](join_discord.jpg "Discord")
 
 ### Rules
 
