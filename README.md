@@ -25,10 +25,6 @@
 The entire staff team can interpret these rules (within reason) and respond how they see fit. Something that is questionable, but not explicitly written in the rules, is still subject to punishment - with staff having the final say on everything.
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hackerdaddie/bossedup_motd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-
+If you need to get in contact with an admin for any reason or to dispute a ban, create a ticket through our discord server.
